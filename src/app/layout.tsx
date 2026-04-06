@@ -3,7 +3,7 @@ import { ThemeProvider } from "next-themes";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://kbksourcing.com"),
+  metadataBase: new URL("https://kbkssplS.com"),
   title: {
     default: "KBK Sourcing Services | Industrial Maintenance & Factory Services India",
     template: "%s | KBK Sourcing Services",
@@ -63,9 +63,9 @@ export const metadata: Metadata = {
     google: "your-google-verification-code",
   },
   icons: {
-    icon: "/images/logo-icon.png",
-    shortcut: "/images/logo-icon.png",
-    apple: "/images/logo-icon.png",
+    icon: "/images/kbk-logo-full.png?v=1",
+    shortcut: "/images/kbk-logo-full.png?v=1",
+    apple: "/images/kbk-logo-full.png?v=1",
   },
 };
 
