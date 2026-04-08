@@ -17,41 +17,41 @@ const values: ValueItem[] = [
         title: "Empowerment",
         description: "Encouraging ownership, accountability, and innovation",
         icon: Zap,
-        color: "text-amber-500",
-        bgColor: "bg-amber-50",
-        borderColor: "border-amber-200"
+        color: "text-primary",
+        bgColor: "bg-primary/10",
+        borderColor: "border-primary/20"
     },
     {
         title: "Flexibility",
         description: "Adapting swiftly to market dynamics and client needs",
         icon: Scaling,
-        color: "text-blue-500",
-        bgColor: "bg-blue-50",
-        borderColor: "border-blue-200"
+        color: "text-primary",
+        bgColor: "bg-primary/10",
+        borderColor: "border-primary/20"
     },
     {
         title: "Collaboration",
         description: "Working as one team with clients, partners, and stakeholders",
         icon: Handshake,
-        color: "text-rose-500",
-        bgColor: "bg-rose-50",
-        borderColor: "border-rose-200"
+        color: "text-primary",
+        bgColor: "bg-primary/10",
+        borderColor: "border-primary/20"
     },
     {
         title: "Recognition",
         description: "Valuing performance, dedication, and excellence",
         icon: Trophy,
-        color: "text-purple-500",
-        bgColor: "bg-purple-50",
-        borderColor: "border-purple-200"
+        color: "text-primary",
+        bgColor: "bg-primary/10",
+        borderColor: "border-primary/20"
     },
     {
         title: "Respect",
         description: "Upholding dignity, diversity, and ethical conduct",
         icon: HeartHandshake,
-        color: "text-emerald-500",
-        bgColor: "bg-emerald-50",
-        borderColor: "border-emerald-200"
+        color: "text-primary",
+        bgColor: "bg-primary/10",
+        borderColor: "border-primary/20"
     },
 ];
 

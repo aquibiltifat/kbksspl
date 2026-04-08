@@ -240,7 +240,7 @@ export default function AboutPage() {
                                 </div>
                             </div>
                             <div className="max-w-3xl mx-auto">
-                                <h3 className="text-3xl font-heading font-semibold text-foreground mb-4">Electrical Mechanical Instrumentations</h3>
+                                <h3 className="text-3xl font-heading font-semibold text-foreground mb-4">MECHANICAL ELECTRICAL INSTRUMENTATIONS</h3>
                                 <p className="text-lg text-muted-foreground">
                                     A comprehensive integration of high-quality electrical systems, precision mechanical components, and advanced monitoring instrumentations for seamless industrial operations.
                                 </p>

@@ -5,8 +5,8 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://kbkssplS.com"),
   title: {
-    default: "KBK Sourcing Services | Industrial Maintenance & Factory Services India",
-    template: "%s | KBK Sourcing Services",
+    default: "KBK SOURCING SERVICES",
+    template: "%s | KBK SOURCING SERVICES",
   },
   description:
     "Top industrial maintenance services in India. Pan-India factory and plant maintenance, AMC contractors, preventive maintenance, and equipment solutions for manufacturing.",
@@ -29,8 +29,8 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_IN",
     url: "https://kbksourcing.com",
-    siteName: "KBK Sourcing Services",
-    title: "KBK Sourcing Services | Industrial Maintenance & Factory Services India",
+    siteName: "KBK SOURCING SERVICES",
+    title: "KBK SOURCING SERVICES",
     description:
       "Top industrial maintenance services in India. Pan-India factory and plant maintenance, AMC contractors, preventive maintenance, and equipment solutions for manufacturing.",
     images: [
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "KBK Sourcing Services | Industrial Maintenance India",
+    title: "KBK SOURCING SERVICES",
     description: "Top industrial maintenance services in India. Factory and plant maintenance solutions.",
     images: ["/og-image.jpg"],
   },
@@ -63,9 +63,9 @@ export const metadata: Metadata = {
     google: "your-google-verification-code",
   },
   icons: {
-    icon: "/images/kbk-logo-full.png?v=1",
-    shortcut: "/images/kbk-logo-full.png?v=1",
-    apple: "/images/kbk-logo-full.png?v=1",
+    icon: "/images/favicon-white-bg.png?v=4",
+    shortcut: "/images/favicon-white-bg.png?v=4",
+    apple: "/images/favicon-white-bg.png?v=4",
   },
 };
 

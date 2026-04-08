@@ -126,10 +126,10 @@ export default function ServicesPage() {
                             </p>
                         </div>
                         <div className="md:w-7/12 grid grid-cols-2 gap-4 w-full">
-                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/attar_perfume.png" alt="Attar 1" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
-                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/attar_perfume_2.png" alt="Attar 2" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
-                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/attar_perfume_3.png" alt="Attar 3" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
-                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/attar_perfume_4.png" alt="Attar 4" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
+                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/attar_perfume_nb_1.png" alt="Attar 1" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
+                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/attar_perfume_nb_2.png" alt="Attar 2" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
+                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/attar_perfume_nb_3.png" alt="Attar 3" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
+                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/attar_perfume_nb_4.png" alt="Attar 4" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
                         </div>
                     </div>
                 </div>
