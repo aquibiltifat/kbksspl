@@ -166,9 +166,9 @@ export default function ServicesPage() {
                             </p>
                         </div>
                         <div className="md:w-7/12 grid grid-cols-2 gap-4 w-full">
-                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/wooden_box_1.png" alt="Wooden Antique Attar Box" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
+                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/wooden_box_brandless_1.png" alt="Wooden Antique Attar Box" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
                             <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/wooden_box_2_tall.png" alt="Tall Wooden Antique Attar Box" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
-                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/wooden_box_3.png" alt="Wooden Antique Attar Box 3" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
+                            <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/wooden_box_brandless_2.png" alt="Wooden Antique Attar Box 3" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
                             <div className="relative h-48 md:h-64 rounded-2xl overflow-hidden shadow-md"><Image src="/images/wooden_box_4.png" alt="Wooden Antique Attar Box 4" fill className="object-cover hover:scale-105 transition-transform duration-500" /></div>
                         </div>
                     </div>

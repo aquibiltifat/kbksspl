@@ -63,9 +63,9 @@ export const metadata: Metadata = {
     google: "your-google-verification-code",
   },
   icons: {
-    icon: "/images/favicon-white-bg.png?v=4",
-    shortcut: "/images/favicon-white-bg.png?v=4",
-    apple: "/images/favicon-white-bg.png?v=4",
+    icon: "/images/kbk-logo-full.png?v=5",
+    shortcut: "/images/kbk-logo-full.png?v=5",
+    apple: "/images/kbk-logo-full.png?v=5",
   },
 };
 
