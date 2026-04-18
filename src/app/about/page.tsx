@@ -239,8 +239,12 @@ export default function AboutPage() {
                                     />
                                 </div>
                             </div>
-                            <div className="max-w-5xl mx-auto overflow-hidden">
-                                <h3 className="text-xl md:text-3xl font-heading font-semibold text-foreground mb-4 whitespace-nowrap">MECHANICAL &nbsp;&nbsp;&nbsp;&nbsp; ELECTRICAL &nbsp;&nbsp;&nbsp;&nbsp; INSTRUMENTATIONS</h3>
+                            <div className="w-full mx-auto">
+                                <div className="flex flex-row justify-center items-center gap-4 md:gap-8 mb-4">
+                                    <h3 className="text-lg md:text-2xl lg:text-3xl font-heading font-semibold text-foreground whitespace-nowrap">MECHANICAL</h3>
+                                    <h3 className="text-lg md:text-2xl lg:text-3xl font-heading font-semibold text-foreground whitespace-nowrap">ELECTRICAL</h3>
+                                    <h3 className="text-lg md:text-2xl lg:text-3xl font-heading font-semibold text-foreground whitespace-nowrap">INSTRUMENTATIONS</h3>
+                                </div>
                                 <p className="text-lg text-muted-foreground">
                                     A comprehensive integration of high-quality electrical systems, precision mechanical components, and advanced monitoring instrumentations for seamless industrial operations.
                                 </p>
